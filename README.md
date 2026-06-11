@@ -1,1 +1,1 @@
-# StudentCatalogueSystem
+# Student Catalogue System
